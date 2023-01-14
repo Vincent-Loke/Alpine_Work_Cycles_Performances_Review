@@ -1,1 +1,3 @@
 # Alpine_Work_Cycles_Performances_Review
+
+The project was initiated by Alpine Works Cycles to understand the current problem and situation that causes the drop of company sales by performing data analysis on the available data from Alpine Works Cycles. The project used the CRISP-DM methodology where the project requires to perform data exploration and business understanding, data preparations, and data visualization. Once all the components have been completed, the final step was to give recommendations to the company on how to improve the company sales performance with the use of multiple dashboards.
